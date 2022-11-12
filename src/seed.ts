@@ -1,5 +1,5 @@
 import { DatabaseEngine } from "./lib/database/engine";
-import { debug } from "./lib/meta/debug";
+import { debug } from "@meta/debug";
 
 async function main() {
     debug!("seeding database");

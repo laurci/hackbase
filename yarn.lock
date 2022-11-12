@@ -949,9 +949,9 @@ typescript-formatter@^7.2.2:
     editorconfig "^0.15.0"
 
 "typescript@npm:@laurci/typescript@latest":
-  version "5.0.0-p.4"
-  resolved "https://npm.pkg.github.com/download/@laurci/typescript/5.0.0-p.4/7b3aa277c07395b22e0cb7879f13ee9978329d9f#7b3aa277c07395b22e0cb7879f13ee9978329d9f"
-  integrity sha512-6TwmA7GoPP7/wE01jYql3F68Lk1iKpeaTajigm077kt9KwTmD08L2NQm4AwCdUiToBZTHIakVTmyEGfEa/a2Kg==
+  version "5.0.0-p.5"
+  resolved "https://npm.pkg.github.com/download/@laurci/typescript/5.0.0-p.5/b0f24ca20aa84408e79af9a5aa001d0061821fdc#b0f24ca20aa84408e79af9a5aa001d0061821fdc"
+  integrity sha512-ngH9IBAOx3O3bupBtXOxr4p2KCrXsNJEN5nEuFJU4GIcCaJmEjkn2HjfG+7ErbqpiErjh62Ku5WV1o7TqWUlJA==
   dependencies:
     pirates "^4.0.5"
 

@@ -1,6 +1,6 @@
 
 import { serialize, deserialize } from "bson";
-import { debug } from "../meta/debug";
+import { debug } from "@meta/debug";
 import { Platform } from "../platform";
 
 export interface DatabaseEngineOptions {

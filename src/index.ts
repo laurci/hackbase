@@ -1,8 +1,8 @@
 import { DatabaseEngine } from "./lib/database/engine";
 import "./lib/globals";
 
-import { debug } from "./lib/meta/debug";
-import { rel } from "./lib/meta/path";
+import { debug } from "@meta/debug";
+import { rel } from "@meta/path";
 
 async function main() {
     const engine = await DatabaseEngine.create({

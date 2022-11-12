@@ -1,5 +1,5 @@
 import { TaggedTemplateMacro } from "compiler";
-import { getGlobalInvokeExpression } from "./meta";
+import { getGlobalInvokeExpression } from "./lib";
 
 export macro function rel(this: TaggedTemplateMacro, ..._args: unknown[]): string {
     this.transform(({ node, factory }) => {
